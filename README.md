@@ -13,7 +13,7 @@ gear needed for this is following:
 # steps
 
 1. setup a linux machine and configure the network interfaces
-2. intstall wireshark and disable ipv6 and mdns on the listening interface connected to the switch
+2. intstall wireshark and disable ipv6 and mdns on the listening interface connected to the switch to reduce noise
 3. WIP
 
 
