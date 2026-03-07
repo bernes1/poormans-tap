@@ -14,7 +14,7 @@ gear needed for this is following:
 
 1. setup a linux machine and configure the network interfaces
 2. intstall wireshark and disable ipv6 and mdns on the listening interface connected to the switch to reduce noise
-3. WIP
+3. set the interface to be up and set promisc on.
 
 
 
